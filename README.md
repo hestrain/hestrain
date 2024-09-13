@@ -50,36 +50,35 @@ HeatherEllen Strain (she/they) is an aspiring full-stack web developer leveragin
 <div style="display: flex; justify-content: space-around;">
 <div id="finished" style="border: white solid 2px; padding: 10px; margin: 15px; min-width: 250px;">
 <h2>Finished Projects</h2>
-  <p style="display: flex;">
-            <h3>Cosmic Quest</h3>
-            <p>Text based space exploration game!</p>
-            <ul>
-                <li>
+<p style="display: flex;">
+<h3>Cosmic Quest</h3>
+<p>Text based space exploration game!</p>
+<ul>
+<li>
 <a href="https://github.com/jreeve65/Cosmic-Quest">Repo</a>
-                </li>
-                <li>
+</li>
+ <li>
 <a href="https://cosmic-quest.onrender.com/">Live</a>
-                </li>
-            </ul>
-        </p>
-        </div>
-        <div id="wip" style="border: white solid 2px; padding: 10px; margin: 15px; min-width: 250px;">
-            <h2>WIP</h2>
-            <p style="display: flex;">
-                <h3>Paprika Care Guide</h3>
-                <p>A care guide for my anxiety ridden (but very smart)dog!</p>
-                <ul>
-                    <li>
+ </li>
+</ul>
+</p>
+</div>
+<div id="wip" style="border: white solid 2px; padding: 10px; margin: 15px; min-width: 250px;">
+<h2>WIP</h2>
+<p style="display: flex;">
+<h3>Paprika Care Guide</h3>
+<p>A care guide for my anxiety ridden (but very smart)dog!</p>
+<ul>
+<li>
 <a href="https://github.com/hestrain/Paprika-Care-Guide">Repo</a>
-                    </li>
-                    <li>
-
+</li>
+<li>
  <a href="">Live - Coming Soon</a>
-                    </li>
-                </ul>
-            </p>
-        </div>
-        </div>
+</li>
+</ul>
+</p>
+</div>
+</div>
 
 <!--
 **hestrain/hestrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
