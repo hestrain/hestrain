@@ -73,7 +73,7 @@ HeatherEllen Strain (she/they) is an aspiring full-stack web developer leveragin
 <a href="https://github.com/hestrain/Paprika-Care-Guide">Repo</a>
 </li>
 <li>
- <a href="">Live - Coming Soon</a>
+ <a href="https://paprika-care-guide-1.onrender.com/help">Live</a>
 </li>
 </ul>
 </p>
